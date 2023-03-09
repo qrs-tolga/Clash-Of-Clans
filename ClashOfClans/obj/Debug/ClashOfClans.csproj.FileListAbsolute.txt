@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\ClashOfClans\bin\Debug\ClashOfClans.exe.config
+C:\Users\Administrator\Desktop\ClashOfClans\bin\Debug\ClashOfClans.exe
+C:\Users\Administrator\Desktop\ClashOfClans\bin\Debug\ClashOfClans.pdb
+C:\Users\Administrator\Desktop\ClashOfClans\obj\Debug\ClashOfClans.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ClashOfClans\obj\Debug\ClashOfClans.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\ClashOfClans\obj\Debug\ClashOfClans.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ClashOfClans\obj\Debug\ClashOfClans.exe
+C:\Users\Administrator\Desktop\ClashOfClans\obj\Debug\ClashOfClans.pdb
